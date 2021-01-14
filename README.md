@@ -32,3 +32,6 @@ REPOSITORY DEDICATED TO LEARNING KOTLIN
 * Item 1
 * Item 2
 * Item 3
+
+---
+## CSE 310 Module #1
